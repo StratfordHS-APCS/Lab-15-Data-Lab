@@ -1,4 +1,4 @@
-# Lab 15 - Data Lab
+# Lab 15 - Data Lab Intro
 
 This lab is to introduce you to the Sinbad data library.  Today you will be following three introductory tutorials that will show you how to use Sinbad to handle data for you to analyze.
 
